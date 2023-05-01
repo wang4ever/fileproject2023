@@ -2,6 +2,7 @@
 
 > ### 一个Vue+Express+Mysql的电影售票项目
 
+<<<<<<< HEAD
 ### 后台管理
 
 #### 登录页
@@ -10,6 +11,16 @@
 
 
 ## 项目说明 
+=======
+## 效果预览
+
+### 前端展示
+<img src="https://user-images.githubusercontent.com/108270096/235434377-f98ad64c-16ae-4637-b4d2-ec7a7c8272dc.png" width="300px">
+### 后台展示
+<img src="https://user-images.githubusercontent.com/108270096/235434943-7c9968ce-b7ab-4ac0-a904-37e69af9dcb1.gif" width="700px">
+
+
+>>>>>>> ce0359cdbf7b8056361e45f0727e5446583be55f
 
 ### 项目目录     
 
@@ -22,13 +33,25 @@
 
 #### 1. 拉取项目
 
+<<<<<<< HEAD
+=======
+```bash
+#依次执行以下命令
+cd FilmSys
+cd film
+npm install
+cd ../film_admin
+npm install
+cd ../film_api
+npm install
+```
+
+>>>>>>> ce0359cdbf7b8056361e45f0727e5446583be55f
 #### 2. 导入数据文件db_film.sql (我这里使用的数据库是mysql,用户：root,密码：123456)
 
 #### 3. 项目细节
 
-- [前端页面项目](https://github.com/J1ong/FilmSys/tree/master/film)
-- [后台管理项目](https://github.com/J1ong/FilmSys/tree/master/film_admin)
-- [前后台接口项目](https://github.com/J1ong/FilmSys/tree/master/film_api)
+
 
 #### 4. 启动项目
 
