@@ -10,8 +10,7 @@
 
 **功能展示**
 
-![](C:\Users\新旺\Desktop\ppt\管理系统效果1.gif)
-
+![管理系统效果1](https://user-images.githubusercontent.com/108270096/235437052-f02b3e03-4f18-4150-98ca-1772e008c95f.gif)
 
 
 ## 项目说明 
