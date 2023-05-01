@@ -5,6 +5,7 @@
 ## 效果预览
 
 ### 前端展示
+![QQ图片20230428174044](https://user-images.githubusercontent.com/108270096/235434377-f98ad64c-16ae-4637-b4d2-ec7a7c8272dc.png)
 
 #### 整体部分
 
