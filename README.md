@@ -6,7 +6,7 @@
 
 #### 登录页
 
-![管理后台登录页面1](C:\Users\新旺\Desktop\ppt\管理后台登录页面1.png)
+![管理系统首页0001](https://user-images.githubusercontent.com/108270096/235437108-1903a3a5-5883-41d9-af73-5a431cf61aa8.png)
 
 **功能展示**
 
