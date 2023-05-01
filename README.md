@@ -6,9 +6,10 @@
 
 ### 前端展示
 <img src="https://user-images.githubusercontent.com/108270096/235434377-f98ad64c-16ae-4637-b4d2-ec7a7c8272dc.png" width="300px">
+### 后台展示
+<img src="https://user-images.githubusercontent.com/108270096/235434943-7c9968ce-b7ab-4ac0-a904-37e69af9dcb1.gif" width="300px">
 
 
-## 项目说明 
 
 ### 项目目录     
 
