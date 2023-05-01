@@ -7,18 +7,18 @@
 ### 前端展示
 
 #### 整体部分
-<img src="https://img-blog.csdnimg.cn/20190715155903552.gif" width="300px">
+
 
 #### 购票流程
-<img src="https://img-blog.csdnimg.cn/20190715160906822.gif" width="300px">
+
 
 ### 后台管理
 
 #### 登录页
-<img src="https://img-blog.csdnimg.cn/20190911161535557.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTM4MjE4Nw==,size_16,color_FFFFFF,t_70" width="600px">
+
 
 #### 管理页
-<img src="https://img-blog.csdnimg.cn/2019092514452441.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTM4MjE4Nw==,size_16,color_FFFFFF,t_70" width="600px">
+
 
 ## 项目说明 
 
@@ -35,7 +35,6 @@
 
 ```bash
 #依次执行以下命令
-git clone https://github.com/J1ong/FilmSys.git
 cd FilmSys
 cd film
 npm install
@@ -49,9 +48,7 @@ npm install
 
 #### 3. 项目细节
 
-- [前端页面项目](https://github.com/J1ong/FilmSys/tree/master/film)
-- [后台管理项目](https://github.com/J1ong/FilmSys/tree/master/film_admin)
-- [前后台接口项目](https://github.com/J1ong/FilmSys/tree/master/film_api)
+
 
 #### 4. 启动项目
 
